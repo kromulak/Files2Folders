@@ -1,0 +1,15 @@
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Files2Folders.csproj.GenerateResource.Cache
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\Files2Folders\WindowsFormsApplication1\bin\Debug\Files2Folders.exe
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\Files2Folders\WindowsFormsApplication1\bin\Debug\Files2Folders.pdb
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\Files2Folders\WindowsFormsApplication1\obj\x86\Debug\Files2Folders.csprojResolveAssemblyReference.cache
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\Files2Folders\WindowsFormsApplication1\obj\x86\Debug\Files2Folders.Form1.resources
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\Files2Folders\WindowsFormsApplication1\obj\x86\Debug\Files2Folders.Properties.Resources.resources
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\Files2Folders\WindowsFormsApplication1\obj\x86\Debug\Files2Folders.csproj.GenerateResource.Cache
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\Files2Folders\WindowsFormsApplication1\obj\x86\Debug\Files2Folders.exe
+C:\Users\Rosie\Documents\Visual Studio 2010\Projects\Files2Folders\WindowsFormsApplication1\obj\x86\Debug\Files2Folders.pdb
